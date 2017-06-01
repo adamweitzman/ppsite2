@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="826" height="244" viewBox="0 0 826 244">
+    <defs>
+        <circle id="a" cx="11" cy="11" r="11"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#FF5400" font-family="CircularStd-Bold, Circular Std" font-size="14" font-weight="bold" letter-spacing=".747" transform="translate(-20 -5)">
+            <tspan x="646.318" y="14.905">Perception Point protection</tspan>
+        </text>
+        <path fill="#2A2A41" fill-rule="nonzero" stroke="#2A2A41" stroke-width=".2" d="M778.844 112.086a.898.898 0 0 0-.8.912v2.274c-8.447.45-15.227 7.236-15.678 15.69h-2.271a.898.898 0 1 0 0 1.796h2.271c.45 8.453 7.231 15.238 15.679 15.69v2.273a.898.898 0 1 0 1.795 0v-2.274c8.447-.45 15.228-7.236 15.678-15.69h2.272a.897.897 0 1 0 0-1.796h-2.272c-.45-8.453-7.231-15.238-15.678-15.69v-2.273a.899.899 0 0 0-.996-.912zm-.8 4.982v3.116a.898.898 0 1 0 1.796 0v-3.116c7.468.449 13.435 6.42 13.883 13.893h-3.113a.898.898 0 1 0 0 1.796h3.113c-.448 7.475-6.415 13.445-13.883 13.894v-3.116a.899.899 0 1 0-1.795 0v3.116c-7.469-.449-13.435-6.42-13.884-13.893h3.114a.897.897 0 1 0 0-1.797h-3.114c.449-7.474 6.415-13.444 13.884-13.893zm.8 10.287a.898.898 0 0 0-.8.912v2.694h-2.692a.898.898 0 1 0 0 1.796h2.693v2.695a.898.898 0 1 0 1.795 0v-2.694h2.692a.897.897 0 1 0 0-1.797h-2.692v-2.694a.899.899 0 0 0-.996-.912z" opacity=".6"/>
+        <g fill="#2A2A41" fill-rule="nonzero" opacity=".6">
+            <path stroke="#FFF" stroke-width=".5" d="M651.046 146.156c-15.071 0-21.886-13.494-22.169-14.068a1.262 1.262 0 0 1 0-1.114c.283-.574 7.098-14.069 22.17-14.069 15.07 0 21.885 13.495 22.169 14.07.172.35.172.762 0 1.113-.284.574-7.098 14.068-22.17 14.068zm-19.67-14.625c1.422 2.453 7.792 12.137 19.67 12.137 11.88 0 18.249-9.684 19.671-12.137-1.422-2.453-7.792-12.137-19.67-12.137-11.88 0-18.249 9.684-19.671 12.137z"/>
+            <path d="M651.235 141.228c-5.463 0-9.907-4.515-9.907-10.065s4.444-10.064 9.907-10.064c5.462 0 9.906 4.515 9.906 10.064 0 5.55-4.444 10.065-9.906 10.065zm0-18.033c-4.325 0-7.843 3.575-7.843 7.968s3.518 7.968 7.843 7.968c4.324 0 7.843-3.575 7.843-7.968s-3.52-7.968-7.843-7.968z"/>
+        </g>
+        <g fill="#2A2A41" fill-rule="nonzero" stroke="#F9F9F9" stroke-width="1.8" opacity=".6">
+            <path d="M529.878 143.061l1.33.483 1.33-.483 10.887-9.536c.734-.643.734-1.687 0-2.33-.735-.644-1.927-.644-2.662 0l-7.672 6.72v-23.533c0-.91-.843-1.648-1.882-1.648s-1.882.738-1.882 1.648v23.534l-7.673-6.722c-.734-.643-1.927-.643-2.661 0-.735.644-.735 1.688 0 2.331l10.885 9.536zM546.148 147.664h-29.88c-1.039 0-1.881.738-1.881 1.648 0 .91.842 1.649 1.881 1.649h29.88c1.04 0 1.882-.738 1.882-1.649 0-.91-.842-1.648-1.882-1.648z"/>
+        </g>
+        <g fill="#2A2A41" fill-rule="nonzero" stroke="#F9F9F9" stroke-width=".6" opacity=".6">
+            <path d="M152.908 118.646c-1.205 0-2.347.126-3.489.379l-1.014-1.77c.76-1.076 2.156-2.72 3.932-3.162 1.079-.253 2.094-.064 3.235.695 3.172 2.087 6.978 1.581 10.466-1.391l-1.649-1.897c-2.537 2.213-5.201 2.656-7.421 1.201-1.713-1.138-3.489-1.454-5.265-1.011-2.03.506-3.616 2.023-4.694 3.288-.824-1.012-2.03-1.581-3.362-1.581-.76 0-1.522.19-2.156.57-2.03 1.2-2.728 3.793-1.523 5.817l2.03 3.414c-2.854 2.846-4.63 6.703-4.63 11.067 0 8.536 6.977 15.492 15.54 15.492 8.563 0 15.54-6.956 15.54-15.492 0-8.537-6.977-15.62-15.54-15.62zm-10.149-2.53c.254-.126.571-.253.888-.253.635 0 1.205.316 1.46.822l1.712 2.91-2.981 1.706-1.713-2.908c-.444-.76-.19-1.834.634-2.277zm10.15 31.049c-7.168 0-13.004-5.818-13.004-12.964 0-7.145 5.836-13.026 13.003-13.026 7.168 0 13.003 5.818 13.003 12.963 0 7.146-5.835 13.027-13.003 13.027zM168.005 111.31c.126.316.19.696.19 1.012 0 .38-.064.696-.19 1.012h2.283v-2.087h-2.283v.063zM163.691 109.54l-1.585-1.581-1.46 1.454 1.586 1.581a3.243 3.243 0 0 1 1.46-1.454zM167.878 110.994l1.586-1.58-1.46-1.455-1.585 1.58a3.243 3.243 0 0 1 1.459 1.455zM166.102 109.413v-2.276h-2.093v2.276a2.88 2.88 0 0 1 1.014-.19c.381 0 .762.064 1.079.19zM166.419 115.168l1.586 1.58 1.459-1.454-1.586-1.58a3.243 3.243 0 0 1-1.46 1.454z"/>
+            <path d="M164.009 115.294v2.277h2.093v-2.277a2.88 2.88 0 0 1-1.015.19c-.38 0-.761-.063-1.078-.19z"/>
+        </g>
+        <path fill="#2A2A41" fill-rule="nonzero" stroke="#FFF" stroke-width=".4" d="M46.031 149.4l-8.231-8.242a16.728 16.728 0 0 0 3.98-10.84c0-9.274-7.544-16.818-16.821-16.818-9.28 0-16.824 7.544-16.824 16.819 0 9.274 7.544 16.819 16.824 16.819 4.341 0 8.29-1.668 11.278-4.378l8.207 8.217a1.117 1.117 0 0 0 1.916-.788c0-.287-.11-.573-.329-.79zm-21.072-4.505c-8.039 0-14.581-6.537-14.581-14.576 0-8.04 6.542-14.576 14.581-14.576s14.576 6.537 14.576 14.576c.003 8.039-6.535 14.576-14.576 14.576z" opacity=".6"/>
+        <path fill="#2A2A41" fill-rule="nonzero" stroke="#F9F9F9" stroke-width="2.4" d="M295.07 118.905h-28.759c-3.114.058-5.598 2.624-5.563 5.747v17.956c-.046 3.13 2.441 5.71 5.563 5.767h28.76c3.113-.057 5.597-2.624 5.562-5.746v-17.977c.035-3.123-2.449-5.69-5.563-5.747zm-2.099 4.21l-12.26 9.81-12.384-9.81h24.644zm2.1 21.05h-28.76a1.472 1.472 0 0 1-1.364-1.536v-16.84l14.463 11.45c.763.605 1.84.605 2.603 0l14.422-11.43v16.84c.024.791-.578 1.46-1.365 1.516z" opacity=".6"/>
+        <g fill="#FF5400" opacity=".4">
+            <g transform="translate(341.748 66.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g transform="translate(341.748 96.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g transform="translate(341.748 66.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g transform="translate(341.748 146.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g transform="translate(341.748 116.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g transform="translate(341.748 86.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g>
+                <g transform="translate(341.748 66.905)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="translate(341.748 36.905)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="translate(341.748 6.905)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+            </g>
+            <g>
+                <g transform="rotate(-90 211.827 -200.921)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="rotate(-90 226.827 -215.921)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="rotate(-90 211.827 -200.921)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g>
+                    <g transform="rotate(-90 211.827 -200.921)">
+                        <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                        <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                        <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                    </g>
+                    <g transform="rotate(-90 196.827 -185.921)">
+                        <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                        <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                        <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                    </g>
+                    <g transform="rotate(-90 181.827 -170.921)">
+                        <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                        <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                        <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g transform="rotate(-90 271.827 -260.921)">
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="rotate(-90 256.827 -245.921)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="rotate(-90 241.827 -230.921)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+            </g>
+            <g>
+                <g transform="rotate(-90 281.827 -270.921)">
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="rotate(-90 266.827 -255.921)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="rotate(-90 251.827 -240.921)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+            </g>
+        </g>
+        <g fill="#2A2A41" opacity=".3">
+            <g transform="translate(586.996 125.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g transform="translate(586.996 95.905)">
+                <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g transform="translate(586.996 85.905)">
+                <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+            </g>
+            <g>
+                <g transform="translate(586.996 145.905)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="translate(586.996 115.905)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+                <g transform="translate(586.996 95.905)">
+                    <circle cx="2" cy="22" r="2" transform="rotate(180 2 22)"/>
+                    <circle cx="2" cy="12" r="2" transform="rotate(180 2 12)"/>
+                    <circle cx="2" cy="2" r="2" transform="rotate(180 2 2)"/>
+                </g>
+            </g>
+        </g>
+        <path fill="#121229" fill-rule="nonzero" d="M29.502 128.859v-.862H28.12a2.498 2.498 0 0 0-.463-1.177l1.226-1.33-.634-.585-1.21 1.313a2.503 2.503 0 0 0-1.414-.436c-.525 0-1.012.161-1.415.436L23 124.905l-.633.584 1.226 1.33c-.247.34-.412.741-.464 1.178h-1.381v.862h1.362v.615h-1.362v.862h1.362v.615h-1.362v.862h1.4a2.514 2.514 0 0 0 2.477 2.092 2.514 2.514 0 0 0 2.477-2.092h1.4v-.862H28.14v-.615h1.362v-.862H28.14v-.615h1.362z" opacity=".5"/>
+        <g opacity=".6">
+            <path stroke="#2A2A41" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M403.966 113.464a13.708 13.708 0 0 0-2.75.28 13.333 13.333 0 0 0-3.756 1.384 13.512 13.512 0 0 0-2.176 1.483 13.922 13.922 0 0 0-1.85 1.87c-.278.34-.541.694-.787 1.06a13.999 13.999 0 0 0-1.258 2.342 13.785 13.785 0 0 0-1.072 5.365v22.912l5.118-6.706 3.981 6.706 4.55-6.706 5.119 6.706 3.412-6.706 5.12 6.706v-22.912a14.09 14.09 0 0 0-.278-2.777 13.715 13.715 0 0 0-.796-2.588 13.989 13.989 0 0 0-1.258-2.341 13.942 13.942 0 0 0-2.637-2.93 13.894 13.894 0 0 0-2.175-1.484 13.467 13.467 0 0 0-6.507-1.664z"/>
+            <path fill="#2A2A41" d="M396 128.983c0 1.15.95 2.084 2.12 2.084 1.17 0 2.12-.934 2.12-2.084s-.95-2.084-2.12-2.084c-1.17 0-2.12.934-2.12 2.084M407.842 128.983c0 1.15.95 2.084 2.121 2.084 1.17 0 2.12-.934 2.12-2.084s-.95-2.084-2.12-2.084c-1.17 0-2.12.934-2.12 2.084"/>
+        </g>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(-20 -5)">
+            <tspan x="35.195" y="222.905">Recon.</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(-20 -5)">
+            <tspan x="144.88" y="222.905">Weaponize</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(-20 -5)">
+            <tspan x="281.113" y="222.905">Delivery</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(-20 -5)">
+            <tspan x="397.756" y="222.905">Explotation</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(-20 -5)">
+            <tspan x="531.197" y="222.905">Instalation</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(-20 -5)">
+            <tspan x="648.748" y="228.905">Command</tspan> <tspan x="648.748" y="245.905">&amp; Control</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(-20 -5)">
+            <tspan x="781.748" y="228.905">Action on </tspan> <tspan x="781.748" y="245.905">objective</tspan>
+        </text>
+        <path stroke="#C8C8D6" stroke-width="5" d="M.73 192.572h825.018" opacity=".4"/>
+        <g transform="rotate(180 177.374 101.571)">
+            <circle cx="11" cy="11" r="11" fill="#FFF"/>
+            <circle cx="11" cy="11" r="11" fill="#FF5400" opacity=".2"/>
+            <circle cx="11" cy="11" r="5" fill="#FF5400"/>
+        </g>
+        <g transform="translate(577.748 181.142)">
+            <g transform="rotate(180 11 11)">
+                <use fill="#FFF" xlink:href="#a"/>
+                <use fill="#121229" fill-opacity=".16" xlink:href="#a"/>
+            </g>
+            <circle cx="11" cy="11" r="5" fill="#2A2A41" transform="matrix(1 0 0 -1 0 22)"/>
+        </g>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(-20 -5)">
+            <tspan x="21.691" y="217.049">1.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(-20 -5)">
+            <tspan x="131.28" y="217.049">2.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(-20 -5)">
+            <tspan x="266.563" y="217.049">3.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(-20 -5)">
+            <tspan x="382.677" y="217.049">4.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(-20 -5)">
+            <tspan x="516.417" y="217.049">5.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(-20 -5)">
+            <tspan x="633.567" y="217.049">6.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(-20 -5)">
+            <tspan x="766.308" y="217.049">7.</tspan>
+        </text>
+        <text fill="#121229" font-family="CircularStd-Bold, Circular Std" font-size="14" font-weight="bold" letter-spacing=".747" opacity=".9" transform="translate(-20 -5)">
+            <tspan x="654.694" y="82.905">Existing solutions sandbox</tspan>
+        </text>
+    </g>
+</svg>

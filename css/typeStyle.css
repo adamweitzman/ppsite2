@@ -1,0 +1,216 @@
+* {
+    font-family: 'Circular Std', sans-serif;
+}
+
+h1 {
+    width: 779px;
+    height: 108px;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.08;
+    letter-spacing: -0.7px;
+    color: #212a3c;
+
+    margin-top:0px;
+}
+
+sub {
+    width: 474px;
+    font-size: 18px;
+    line-height: 1.67;
+    color: #9c9cac;
+    display:block;
+    opacity:0.8;
+
+}
+
+h2 {
+    font-size: 31px;
+    color: #121229;
+    font-weight: 100;
+    display:block;
+    width:536px;
+}
+
+.mediumH2Block {
+    width: 733px;
+}
+
+.longH2Block {
+    width:817px;
+}
+
+.longSubBlock {
+    width:787px;
+}
+
+.subTextAreaFlex sub {
+    width:380px;
+}
+
+h4 {
+    width: 323px;
+    opacity: 0.7;
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: 0.5px;
+    color: #121229;
+    margin-top:50px;
+}
+
+.teamName {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 2.0;
+    letter-spacing: 0.7px;
+    margin-bottom:0;
+}
+
+.teamTitle {
+    width: 154px;
+    height: 20px;
+    font-weight: 100;
+    font-size: 15px;
+    margin:0;
+    line-height: 1.33;
+    color:white;
+}
+
+.teamInfo {
+    opacity: 0.9;
+    font-weight:100;
+    font-size: 15px;
+    line-height: 1.33;
+}
+
+.articleTitle {
+    width: 499px;
+    font-size: 26px;
+    font-weight: 500;
+    color: #121229;
+    display:block;
+}
+
+.articleTitle span {
+    color: #9c9cac;
+    font-weight:100;
+}
+
+.articleDate {
+    font-size: 12px;
+    line-height: 1.67;
+    color: #9c9cac;
+    opacity:0.8;
+    font-weight:100;
+    margin-top:-17px;
+}
+
+.articleText sub {
+    width: 499px;
+    margin-bottom:-38px;
+}
+
+.readMore {
+    opacity: 0.8;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 3.14;
+    color: #424257;
+}
+
+.moreArticlesBtn {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ff5400;
+
+    position:absolute;
+    right:0;
+    top:0;
+    transition:all 0.5s ease;
+    margin:0;
+    cursor: pointer;
+
+}
+
+.fa-long-arrow-right {
+    opacity:0;
+    transition:all 0.5s ease;
+    position:absolute;
+    right:0;
+    top:1px;
+    color: #ff5400;
+    cursor: pointer;
+}
+
+.moreArticles:hover h5 {
+    right:25px;
+}
+
+.moreArticles:hover i {
+    opacity:1;
+}
+
+h6, input, textarea  {
+    opacity: 0.9;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    color: #868697;
+
+}
+
+h6 {
+    width:20%;
+}
+
+input, textarea {
+    /*flex-grow:4;*/
+    outline: none;
+}
+
+textarea {
+    height:80%;
+    resize: none;
+    padding-right: 25px;
+    margin-top:20px;
+    width:56%;
+}
+
+.sendBtn {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 3.14;
+    letter-spacing: 0.4px;
+    color:#ff5400;
+    cursor: pointer;
+
+    position:absolute;
+    bottom:0;
+    right:20px;
+    transition:all 0.5s ease;
+
+}
+
+
+.contactInfo h4 {
+    width: 253px;
+    mix-blend-mode: multiply;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+    color: #9c9cac;
+    font-weight:100;
+    margin-bottom:0px;
+}
+
+.link {
+    width: 105.9px;
+    height: 20px;
+    mix-blend-mode: multiply;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.67;
+    letter-spacing: 0.3px;
+    color: #38569d;
+    text-decoration: none;
+}

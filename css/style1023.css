@@ -1,0 +1,421 @@
+.dataShapeContainer {
+    display:none;
+}
+
+.navContainer {
+    width: 100vw;
+    height: 84px;
+    z-index:3;
+}
+
+.navFlexOpen {
+    background: white;
+}
+
+.navFlex {
+    top:20px;
+    flex-direction:row;
+
+    width:100vw;
+    padding-left:18px;
+    padding-right: 18px;
+    height:90px;
+    background: #f3f3f3;
+    transition:all 1.5s ease;
+
+}
+
+.navShadowMobile {
+    box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.12);
+}
+
+.logo {
+    width:95px;
+    transition:all 1.5s ease;
+}
+
+.logoOpacityNone {
+    opacity:0;
+}
+
+.navScrollShadow {
+    box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.12);
+}
+
+.mobileMenuBurger {
+    position: absolute;
+    top:45px;
+    right:18px;
+    width: 18px;
+    height: 12px;
+}
+
+.burgerTop{
+    top:0;
+    height: 2px;
+    width:100%;
+    position: absolute;
+    background: #121229;
+    transition:all 0.5s ease;
+}
+
+.burgerTopOpen {
+    transform:rotate(-45deg);
+    top:5px;
+}
+
+.burgerMiddle {
+    top:5px;
+    height: 2px;
+    width:100%;
+    position: absolute;
+    background: #121229;
+    transition:all 0.5s ease;
+}
+
+.burgerMiddleOpen {
+    transform:rotate(45deg);
+}
+
+.burgerBottom {
+    bottom:0;
+    height: 2px;
+    width:100%;
+    position: absolute;
+    background: #121229;
+    transition:all 1s ease;
+}
+
+.burgerBottomOpen {
+    bottom: -150px
+}
+
+.desktop {
+    display:none;
+}
+
+.mobileNavContainer {
+    position:fixed;
+    width:100vw;
+    height:100vh;
+    z-index:2;
+    transition:all 1.5s ease;
+    box-sizing: border-box;
+
+}
+
+.mobile {
+    display:flex;
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:0;
+    left:0;
+
+    padding:39% 16% 39% 16%;
+    background: white;
+    z-index:3;
+}
+
+.mobileOpen {
+    right:0;
+}
+
+.mobile a {
+    font-size:16px;
+}
+
+.mobile a:active {
+    color:#ff5400;
+}
+
+.mobileDataShapeContainer {
+    position:absolute;
+    width:100vw;
+    height:90%;
+    top:5%;
+    right:0;
+}
+
+.laserShape {
+    display:none;
+}
+
+.dataShapeContainer {
+    width:100%;
+    height:300%;
+    overflow:hidden;
+    padding-top:100px;
+}
+
+body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+/*.bodyContainer {*/
+/*width:100vw;*/
+/*height:100vh;*/
+/*!*display:flex;*!*/
+/*position:fixed;*/
+/*!*overflow:scroll;*!*/
+/*}*/
+
+.content {
+    margin:0;
+    padding:0;
+}
+
+#home {
+    width:100vw;
+    position:relative;
+    background: #f3f3f3;
+}
+
+.title {
+    background: linear-gradient(#f3f3f3, #f9f9f9);
+}
+
+.arrowContainer {
+    margin-left:10%;
+}
+
+.hrefLink {
+    margin-bottom:50px;
+    margin-left:10%;
+    padding-top:80px;
+}
+
+.mobileSectionTitle {
+    display: block;
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 3.67;
+    color: #ff5400;
+    margin-bottom:-10px;
+}
+
+.mobileSectionUnderline {
+    display:block;
+    width: 56.5px;
+    height: 3px;
+    background:#ff5400;
+    margin-bottom:30px;
+}
+
+.killChain {
+    display:none;
+    margin-left:10%;
+}
+
+.killChainMobile {
+    display:block;
+    /*width: 80vw;*/
+    margin-top:40px;
+    margin-bottom:80px;
+    margin-left:10%;
+}
+
+.imgVisibility {
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:10%;
+    /*height: 255px;*/
+    /*object-fit: contain;*/
+}
+
+.emailImg {
+    width:80vw;
+    margin-left:10%;
+}
+
+#company {
+    background: linear-gradient(white, #f9f9f9);;
+}
+
+.imagesContainer {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width:100vw;
+    overflow:scroll;
+    margin-right:-10%;
+    margin-top:60px;
+    box-sizing:border-box;
+
+}
+.imageHere {
+    width:100%;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    z-index:1;
+    overflow:visible;
+    box-sizing:border-box;
+}
+.orangeBox {
+    width:150%;
+    height:50%;
+    top:100%;
+    left:0;
+
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-start;
+
+    opacity:1;
+    cursor: default;
+    box-shadow: 0 14px 16px -14px rgba(42, 42, 65, 0.44)
+}
+
+#articles {
+    height:0;
+    margin-top: -200px;
+}
+
+.articleContainer {
+    flex-direction:column;
+    overflow: visible;
+    width:100vw;
+    background: transparent;
+    border:none;
+    margin-bottom:50px;
+    padding-top:20px;
+}
+
+.articleImage {
+    margin:auto;
+    width:100%;
+    height:400%;
+}
+
+.articleImage img {
+    width:100%;
+}
+
+.articleTitle {
+    font-size:22px;
+    width:80%;
+    margin:35px auto 35px auto;
+}
+
+.articleDate {
+    margin-left:10vw;
+}
+
+.articleText sub{
+    width:80%;
+}
+
+.moreArticles {
+    display:none;
+}
+
+#contact {
+    margin-top:325px
+}
+
+footer {
+    width:80vw;
+    margin:auto;
+    flex-direction:column;
+    align-items: center;
+}
+
+form {
+    width: 100%;
+}
+
+.formBox {
+    width: 100%;
+}
+
+.contactInfo {
+    margin:50px 0;
+    text-align: center;
+}
+
+.contactInfo h4 {
+    margin-left: 0;
+}
+
+.sendDeactive {
+    opacity:1;
+}
+
+h1 {
+    width: 297px;
+    height: 96px;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1.28;
+    letter-spacing: -0.4px;
+    text-align: left;
+    color: #212a3c;
+    margin-left:10%;
+}
+
+sub {
+    width: 302px;
+    mix-blend-mode: multiply;
+    font-size: 16px;
+    line-height: 1.44;
+    text-align: left;
+    color: #9c9cac;
+    margin-left: 10vw;
+}
+
+h2 {
+    width:80vw;
+    font-size:25px;
+    margin-left:10%;
+}
+
+h4 {
+    margin-left:10%;
+}
+
+.mediumH2Block, .longH2Block {
+    width:84vw;
+    font-size:25px;
+    margin-left:10%;
+}
+
+
+.subTextAreaFlex {
+    flex-direction:column;
+}
+
+.subTextAreaFlex sub {
+    width:45vh;
+    margin-bottom:20px;
+}
+
+.longSubBlock {
+    font-size:16px;
+    width:80vw;
+    margin-left:10%;
+}
+
+.teamName {
+    font-size: 12px;
+}
+
+.teamTitle {
+    font-size: 12px;
+}
+
+.teamInfo {
+    font-size: 11px;
+}
+
+h6 {
+    width:26%;
+}
+
+.sendBtn {
+    font-size: 14px;
+    bottom:-50px;
+    right:40%;
+    opacity:1;
+
+}

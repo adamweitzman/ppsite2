@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="292" height="451" viewBox="0 0 292 451">
+    <defs>
+        <circle id="a" cx="125" cy="269" r="11"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(2 -12)">
+        <path stroke="#C8C8D6" stroke-width="5" d="M125 358.5V12.953" opacity=".4"/>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(126)">
+            <tspan x="34.447" y="22">Recon.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(126)">
+            <tspan x="20" y="16">1.</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(126)">
+            <tspan x="34.132" y="75">Weaponize</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(126)">
+            <tspan x="20" y="69.5">2.</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(126)">
+            <tspan x="36.365" y="130">Delivery</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(126)">
+            <tspan x="36.008" y="182">Explotation</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(126)">
+            <tspan x="20" y="176.5">4.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(126)">
+            <tspan x="20" y="125">3.</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(126)">
+            <tspan x="38" y="350">Action on objective</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(126)">
+            <tspan x="35.449" y="238">Instalation</tspan>
+        </text>
+        <text fill="#727282" font-family="CircularStd-Book, Circular Std" font-size="14" font-weight="300" opacity=".8" style="mix-blend-mode:multiply" transform="translate(126)">
+            <tspan x="36" y="297">Command &amp; Control</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(126)">
+            <tspan x="20" y="232">5.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(126)">
+            <tspan x="20" y="285.5">6.</tspan>
+        </text>
+        <text fill="#828DA8" font-family="CircularStd-Black, Circular Std" font-size="16" font-weight="700" opacity=".3" transform="translate(126)">
+            <tspan x="20" y="338">7.</tspan>
+        </text>
+        <g transform="rotate(180 125 269)">
+            <use fill="#FFF" xlink:href="#a"/>
+            <use fill="#121229" fill-opacity=".16" xlink:href="#a"/>
+        </g>
+        <circle cx="125" cy="269" r="5" fill="#2A2A41" transform="matrix(1 0 0 -1 0 538)"/>
+        <circle cx="125" cy="160" r="11" fill="#FF5400" opacity=".2" transform="rotate(180 125 160)"/>
+        <circle cx="125" cy="160" r="5" fill="#FF5400" transform="rotate(180 125 160)"/>
+        <text fill="#FF5400" font-family="CircularStd-Bold, Circular Std" font-size="14" font-weight="bold" letter-spacing=".747">
+            <tspan x="87.57" y="461">Perception Point protection</tspan>
+        </text>
+        <text fill="#2A2A41" font-family="CircularStd-Bold, Circular Std" font-size="14" font-weight="bold" letter-spacing=".747">
+            <tspan x="95.947" y="416">Existing solutions sandbox</tspan>
+        </text>
+        <g>
+            <path fill="#858591" fill-rule="nonzero" stroke="#858591" stroke-width=".2" d="M97.86 332.004a.592.592 0 0 0-.522.603v1.504c-5.516.298-9.944 4.788-10.238 10.381h-1.538a.586.586 0 0 0-.496.32.602.602 0 0 0 .027.597c.114.179.314.283.524.272H87.1c.294 5.593 4.722 10.082 10.238 10.38v1.505a.596.596 0 0 0 .29.521.58.58 0 0 0 .591 0 .596.596 0 0 0 .291-.521v-1.504c5.516-.299 9.944-4.788 10.238-10.381h1.483a.585.585 0 0 0 .515-.295.601.601 0 0 0 0-.6.585.585 0 0 0-.515-.294h-1.483c-.294-5.593-4.722-10.083-10.238-10.38v-1.505a.598.598 0 0 0-.19-.451.581.581 0 0 0-.46-.152zm-.522 3.296v2.061a.596.596 0 0 0 .29.522.58.58 0 0 0 .591 0 .596.596 0 0 0 .291-.522V335.3c4.877.296 8.773 4.247 9.066 9.192h-2.088a.586.586 0 0 0-.496.32.602.602 0 0 0 .027.597c.114.179.314.283.524.272h2.033c-.293 4.945-4.189 8.895-9.066 9.192v-2.061a.598.598 0 0 0-.19-.451.581.581 0 0 0-.46-.153.592.592 0 0 0-.522.604v2.061c-4.877-.297-8.773-4.247-9.066-9.192h2.033a.585.585 0 0 0 .515-.295.601.601 0 0 0 0-.6.585.585 0 0 0-.515-.294h-2.033c.293-4.945 4.189-8.896 9.066-9.192zm.522 6.806a.592.592 0 0 0-.522.603v1.783h-1.813a.586.586 0 0 0-.496.32.602.602 0 0 0 .027.597c.114.179.314.283.524.272h1.758v1.782a.596.596 0 0 0 .29.522.58.58 0 0 0 .591 0 .596.596 0 0 0 .291-.522v-1.782h1.758a.585.585 0 0 0 .515-.295.601.601 0 0 0 0-.6.585.585 0 0 0-.515-.294H98.51v-1.783a.598.598 0 0 0-.19-.45.581.581 0 0 0-.46-.153z"/>
+            <g fill="#858591" fill-rule="nonzero" stroke="#858591">
+                <path stroke-width=".1" d="M97.38 300.397c-9.044 0-13.132-8.026-13.302-8.368a.745.745 0 0 1 0-.662c.17-.341 4.258-8.367 13.301-8.367s13.132 8.026 13.302 8.367a.745.745 0 0 1 0 .662c-.17.342-4.259 8.368-13.302 8.368zm-11.803-8.699c.853 1.46 4.675 7.219 11.802 7.219s10.95-5.76 11.803-7.219c-.854-1.458-4.676-7.218-11.803-7.218-7.127 0-10.949 5.76-11.802 7.218z"/>
+                <path stroke-width=".5" d="M97.256 297.22c-2.977 0-5.399-2.44-5.399-5.438 0-2.998 2.422-5.437 5.4-5.437 2.976 0 5.398 2.44 5.398 5.437 0 2.998-2.422 5.437-5.399 5.437zm0-9.742c-2.356 0-4.274 1.931-4.274 4.304 0 2.374 1.918 4.305 4.274 4.305 2.357 0 4.275-1.931 4.275-4.305 0-2.373-1.918-4.304-4.275-4.304z"/>
+            </g>
+            <g fill="#858591" fill-rule="nonzero" stroke="#F9F9F9" stroke-width=".4">
+                <path d="M96.593 245.928l.827.295.827-.295 6.765-5.817c.457-.392.457-1.03 0-1.422a1.309 1.309 0 0 0-1.654 0l-4.768 4.1v-14.355c0-.555-.524-1.005-1.17-1.005-.645 0-1.169.45-1.169 1.005v14.355l-4.769-4.1a1.309 1.309 0 0 0-1.654 0c-.456.393-.456 1.03 0 1.422l6.765 5.817zM106.74 248.168H88.17c-.646 0-1.17.45-1.17 1.006 0 .555.524 1.005 1.17 1.005h18.57c.645 0 1.169-.45 1.169-1.005 0-.555-.523-1.006-1.17-1.006z"/>
+            </g>
+            <path stroke="#858591" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" d="M97.636 174a8.618 8.618 0 0 0-2.568.394 8.665 8.665 0 0 0-1.549.666 8.54 8.54 0 0 0-1.376.944 8.83 8.83 0 0 0-2.1 2.59 8.933 8.933 0 0 0-.655 1.573 8.995 8.995 0 0 0-.388 2.61V197.365l3.238-4.27 2.52 4.27 2.878-4.27 3.238 4.27 2.16-4.27 3.238 4.27V182.777a9.028 9.028 0 0 0-.176-1.769 8.778 8.778 0 0 0-.866-2.414 8.925 8.925 0 0 0-.93-1.4 8.858 8.858 0 0 0-1.17-1.19 8.796 8.796 0 0 0-1.378-.944 8.498 8.498 0 0 0-4.116-1.06z"/>
+            <path fill="#858591" d="M92.796 184.241c0 .733.601 1.327 1.342 1.327.74 0 1.342-.594 1.342-1.327 0-.732-.601-1.327-1.342-1.327-.74 0-1.342.595-1.342 1.327M99.346 184.241c0 .733.601 1.327 1.342 1.327.74 0 1.342-.594 1.342-1.327 0-.732-.601-1.327-1.342-1.327-.74 0-1.342.595-1.342 1.327"/>
+            <path fill="#2A2A41" fill-rule="nonzero" stroke="#F9F9F9" stroke-width=".8" d="M105.141 122H89.103c-1.737.033-3.122 1.483-3.103 3.247v10.146c-.026 1.77 1.361 3.227 3.103 3.26h16.038c1.736-.033 3.122-1.483 3.102-3.248v-10.158c.02-1.764-1.366-3.214-3.102-3.247zm-1.17 2.379l-6.837 5.543-6.907-5.543h13.743zm1.17 11.895H89.103a.828.828 0 0 1-.761-.869v-9.515l8.066 6.47a1.156 1.156 0 0 0 1.451 0l8.043-6.459v9.516a.828.828 0 0 1-.761.857z" opacity=".6"/>
+            <g fill="#2A2A41" fill-rule="nonzero" stroke="#F9F9F9">
+                <path stroke-width=".2" d="M96.658 69.065c-.749 0-1.458.08-2.168.24l-.63-1.122c.472-.681 1.34-1.723 2.443-2.004.67-.16 1.301-.04 2.01.441 1.972 1.323 4.337 1.002 6.505-.881l-1.025-1.203c-1.576 1.403-3.232 1.683-4.612.762-1.064-.722-2.168-.922-3.272-.641-1.261.32-2.247 1.282-2.917 2.083a2.639 2.639 0 0 0-2.09-1.001c-.472 0-.945.12-1.34.36a2.715 2.715 0 0 0-.946 3.687l1.262 2.164A9.92 9.92 0 0 0 87 78.963c0 5.41 4.336 9.818 9.658 9.818 5.322 0 9.658-4.408 9.658-9.818 0-5.41-4.336-9.898-9.658-9.898zm-6.307-1.603c.157-.08.355-.16.552-.16.394 0 .749.2.906.52l1.065 1.844-1.853 1.082-1.064-1.844c-.276-.48-.119-1.162.394-1.442zm6.307 19.676c-4.454 0-8.081-3.687-8.081-8.215 0-4.529 3.627-8.255 8.081-8.255 4.455 0 8.081 3.686 8.081 8.215 0 4.528-3.626 8.255-8.08 8.255z" opacity=".6"/>
+                <path stroke-width=".6" d="M106.266 64.575c.079.2.118.44.118.641 0 .24-.04.44-.118.641h1.42v-1.322h-1.42v.04zM103.186 63.636l-.985-1.002-.907.921.986 1.002c.197-.4.512-.721.906-.921zM105.93 64.557l.985-1.002-.906-.921-.986 1.002c.394.2.71.52.907.921zM105.08 63.443V62h-1.3v1.443a1.815 1.815 0 0 1 1.3 0zM105.023 67.358l.986 1.002.906-.922-.985-1.002c-.197.4-.513.721-.907.922z"/>
+                <path stroke-width=".6" d="M103.78 67.07v1.442h1.3V67.07a1.815 1.815 0 0 1-1.3 0z"/>
+            </g>
+            <g fill-rule="nonzero">
+                <path fill="#888894" d="M108.866 34.5l-5.184-5.166a10.454 10.454 0 0 0 2.507-6.793c0-5.813-4.751-10.541-10.594-10.541C89.751 12 85 16.728 85 22.54c0 5.814 4.751 10.542 10.595 10.542 2.734 0 5.22-1.045 7.103-2.744l5.169 5.15a.706.706 0 0 0 1.206-.494.69.69 0 0 0-.207-.495zm-13.27-2.824c-5.064 0-9.184-4.097-9.184-9.135 0-5.038 4.12-9.136 9.183-9.136s9.18 4.098 9.18 9.136c.001 5.038-4.116 9.135-9.18 9.135z"/>
+                <path fill="#121229" d="M98.263 22.373v-.64h-1.032a1.852 1.852 0 0 0-.346-.875l.915-.99-.473-.434-.903.976a1.876 1.876 0 0 0-1.057-.324c-.392 0-.756.12-1.057.324l-.904-.976-.473.434.916.99c-.185.251-.308.55-.347.875H92.47v.64h1.018v.458H92.47v.64h1.018v.458H92.47v.64h1.046c.15.883.92 1.556 1.85 1.556s1.7-.673 1.851-1.556h1.046v-.64h-1.017v-.458h1.017v-.64h-1.017v-.458h1.017z" opacity=".5"/>
+            </g>
+        </g>
+        <path stroke="#2A2A41" stroke-dasharray="1,10" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M110 268H50v136.467"/>
+        <path stroke="#FF5400" stroke-dasharray="1,10" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M105.941 160H0v298.444h29.702"/>
+    </g>
+</svg>

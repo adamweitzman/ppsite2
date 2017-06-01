@@ -1,0 +1,112 @@
+.navContainer {
+    position: fixed;
+    width:23%;
+    height:100vh;
+    background: #f3f3f3;
+    padding:0;
+
+}
+
+@keyframes openWide {
+    from {width:0px; opacity:0}
+}
+
+@keyframes move {
+    from {margin-left:-100px; width:0px}
+}
+
+@keyframes closeMove {
+    from {margin-left:0px;}
+    to {margin-left:-100px; width:0px}
+}
+
+.closeMove {
+    animation:closeMove 0.5;
+}
+
+.navFlex {
+    display:flex;
+    height:100vh;
+    width:100%;
+    flex-direction:column;
+    padding-left:74px;
+    justify-content:space-between;
+}
+
+.logoContainer {
+    padding-top:30px;
+}
+
+.navMenu {
+    position:relative;
+    list-style-type: none;
+    padding:0;
+    margin-bottom:40px;
+    display:flex;
+    flex-direction:column;
+}
+
+.mobile {
+    display:none;
+}
+
+.navMenu a {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 3.67;
+    color: #b2b2c1;
+    margin-bottom:-6px;
+    text-decoration: none;
+    width:100px;
+    transition: 0.5s ease;
+    transition-delay: 0.1s;
+    cursor: pointer;
+}
+
+.navMenu a:hover {
+    color: #ff5400;
+}
+
+.activeNav {
+    color: #ff5400;
+}
+
+.laserShape {
+    width:100%;
+    height:3px;
+    background: #ff5400;
+
+    animation: openWide 1.5s ;
+    transition: top 0.2s ease-out;
+    position:absolute;
+    left:-74px;
+    top:38px;
+    pointer-events: none;
+}
+
+
+/*dataShapes below*/
+
+.dataShapeContainer {
+    position: absolute;
+    width:100%;
+    height:100%;
+    overflow:hidden;
+    padding-top:100px;
+}
+
+.dataShape {
+    position:absolute;
+    background: #212a3c;
+    animation: openWide 1s;
+    /*transition: 2s ease;*/
+    /*cubic-bezier(.75,.36,.35,.91)*/
+}
+
+.a {
+    left:100px;
+}
+
+.move {
+    animation: move 1.5s;
+}
